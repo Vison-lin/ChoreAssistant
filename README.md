@@ -13,7 +13,7 @@ The project is written in Java, built using the Android Studio 2.3, and construc
 Different screen shots of app are performed, such as login and sign up page, home page, control panel page, chore creation page, chore assigning page, reward page etc. 
 
 ![](./Accout-creation.png)
-<pre></pre>
+<br/>
 ![](./login.png)
 <pre></pre>
 ![](./home-page.png)
